@@ -1,0 +1,14 @@
+.canvasjs-chart-toolbar {
+    display: none !important;
+}
+
+a.canvasjs-chart-credit {
+    display: none !important;
+}
+
+
+.pdf{
+    position: absolute;
+    top: 0;
+    left: -20000px !important;
+}

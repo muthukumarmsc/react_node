@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Easysoft/static/css/main.3b519b88.chunk.css",
+    "main.js": "/Easysoft/static/js/main.1fb0b9f1.chunk.js",
+    "main.js.map": "/Easysoft/static/js/main.1fb0b9f1.chunk.js.map",
+    "runtime~main.js": "/Easysoft/static/js/runtime~main.5938a6fd.js",
+    "runtime~main.js.map": "/Easysoft/static/js/runtime~main.5938a6fd.js.map",
+    "static/css/2.cb2db998.chunk.css": "/Easysoft/static/css/2.cb2db998.chunk.css",
+    "static/js/2.a2553f36.chunk.js": "/Easysoft/static/js/2.a2553f36.chunk.js",
+    "static/js/2.a2553f36.chunk.js.map": "/Easysoft/static/js/2.a2553f36.chunk.js.map",
+    "index.html": "/Easysoft/index.html",
+    "precache-manifest.00bb9aef7794f398e061ce5b6416a1f8.js": "/Easysoft/precache-manifest.00bb9aef7794f398e061ce5b6416a1f8.js",
+    "service-worker.js": "/Easysoft/service-worker.js",
+    "static/css/2.cb2db998.chunk.css.map": "/Easysoft/static/css/2.cb2db998.chunk.css.map",
+    "static/css/main.3b519b88.chunk.css.map": "/Easysoft/static/css/main.3b519b88.chunk.css.map",
+    "static/media/EasyLogo-FinalLogo.jpg": "/Easysoft/static/media/EasyLogo-FinalLogo.8b7891d5.jpg",
+    "static/media/font-awesome.css": "/Easysoft/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
